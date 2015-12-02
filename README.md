@@ -95,6 +95,10 @@ Get-AzureRoleSize | Format-Table -Property InstanceSize, Cores, MemoryInMb, Supp
 
 ## Weiterführende Informationen
 
+**[Präsentation zum Workshop](https://doc.co/2T1nEU)**
+
+[Materialien zum IT Camp Hybrid IT](http://aka.ms/hybriditde)
+
 [Blog Peter Kirchner mit vielen PowerShell-Tipps](http://aka.ms/PeterKirchner)
 
 [Installieren und Konfigurieren von Azure PowerShell](https://azure.microsoft.com/de-de/documentation/articles/powershell-install-configure/)
