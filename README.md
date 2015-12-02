@@ -13,7 +13,6 @@ Download: http://www.microsoft.com/en-us/download/details.aspx?id=48729
 <pre>
 Set-ExecutionPolicy RemoteSigned  
 Install-Module Azure  
-Install-Azure 
 Add-AzureAccount
 </pre>
 
